@@ -1,2 +1,2 @@
 # My-Github
-## for ELzero Web school Get course
+## for ELzero Web school Git course
